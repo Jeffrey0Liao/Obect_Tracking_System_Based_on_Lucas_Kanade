@@ -19,13 +19,15 @@ functionalities, which are listed as follows:
 5. Pyramid Lucas-Kanade implementation for large movement robustness.
 6. Real-time video capturing and tracking
 
+![](https://github.com/Jeffrey0Liao/Obect_Tracking_System_Based_on_Lucas_Kanade/blob/main/resources/1.JPG "")
+
 ## Methods
 ### Harris Corner Detection
-
+![](https://github.com/Jeffrey0Liao/Obect_Tracking_System_Based_on_Lucas_Kanade/blob/main/resources/e1.JPG "")
 ### Lucas-Kanade Optic Flow
-
+![](https://github.com/Jeffrey0Liao/Obect_Tracking_System_Based_on_Lucas_Kanade/blob/main/resources/e2.JPG "")
 ### Iterative Lucas-Kanade
-
+![](https://github.com/Jeffrey0Liao/Obect_Tracking_System_Based_on_Lucas_Kanade/blob/main/resources/e3.JPG "")
 ### Pyramid ILK
 1. Build image pyramids for both the old frame and the new frame through down sampling. 
 2. Down sampling the input features.
@@ -36,5 +38,8 @@ Equation 7
 6. Repeat 3 to 5 until the last level of the pyramid.
 
 ## Results
-
+![](https://github.com/Jeffrey0Liao/Obect_Tracking_System_Based_on_Lucas_Kanade/blob/main/resources/2.JPG "Preliminary Results")
 ## Usage
+
+
+For full report please visit [here](https://github.com/Jeffrey0Liao/Obect_Tracking_System_Based_on_Lucas_Kanade/blob/main/resources/CV_cw1_report_20030694.pdf)
