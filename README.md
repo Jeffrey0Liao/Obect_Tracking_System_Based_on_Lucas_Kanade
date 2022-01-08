@@ -40,6 +40,10 @@ Equation 7
 ## Results
 ![](https://github.com/Jeffrey0Liao/Obect_Tracking_System_Based_on_Lucas_Kanade/blob/main/resources/2.JPG "Preliminary Results")
 ## Usage
-
-
+For any version of the algorithm, the input video should be under the same folder of the source code. Please note that videos should be in 'mp4' or 'H264' format for the best performance. Then change line:
+`cap = cv2.VideoCapture('demo7.mp4')`
+into:
+`cap = cv2.VideoCapture('your-input-video.mp4')`
+Run the code.
+##
 For full report please visit [here](https://github.com/Jeffrey0Liao/Obect_Tracking_System_Based_on_Lucas_Kanade/blob/main/resources/CV_cw1_report_20030694.pdf)
